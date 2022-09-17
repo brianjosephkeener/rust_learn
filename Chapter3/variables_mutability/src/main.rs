@@ -2,6 +2,7 @@
 // below is an example of shadowing a variable
 // shadowing requires the "let" keyword 
 // with no let, you get a complier error
+// const keyword exists as well | cant make mutable 
 
 fn main() {
     let x = 5;
